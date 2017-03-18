@@ -1,0 +1,34 @@
+
+body {
+	background-color: #165128;
+}
+
+.panel-heading, .btn-primary {
+	background-color: #42a574 !important;
+	text-align: center;
+}
+
+#top-row {
+	background-color: #53e89e;
+	text-align: center;
+}
+
+.row-title {
+
+}
+
+.added {
+	text-align: center;
+	width: 227px !important;
+}
+
+.panel-body {
+	background-color: #87edbb;
+}
+
+.jumbotron {
+	background-color: #25d159;
+	color: white;
+	font-family: 'Rubik Mono One', sans-serif;
+	text-align: center;
+}
